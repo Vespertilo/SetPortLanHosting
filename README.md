@@ -1,5 +1,5 @@
 # SetPortLanHosting
-Note: Currently not verified for official speedrunning use!
+# Note: Currently not verified for official speedrunning use!
 
 Allows you to chose the port for LAN world hosting.
 
